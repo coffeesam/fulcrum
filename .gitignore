@@ -7,4 +7,5 @@ tmp/
 .rvmrc
 .sass-cache/
 nohup.out
-public/assets/
+public/assets
+start_server.sh
